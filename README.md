@@ -1,6 +1,6 @@
 # CSCA48: Introduction To Computer Science II
 
-This repository contains all my finished (and some unfinished) code from my activity in the CSCA08 course at the University of Toronto, Scarborough Campus. In this repository are all of my assigments and exercises from the course, with documentation in context to the course projects.
+This repository contains all my finished (and some unfinished) code from my activity in the CSCA48 course at the University of Toronto, Scarborough Campus. In this repository are all of my assigments and exercises from the course, with documentation in context to the course projects.
 All of the work in this repository was coded in Python 3.5.2 or higher.
 
 ## Assignments
